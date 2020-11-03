@@ -1,0 +1,9 @@
+# Properties
+
+
+baseURL=https://www.amazon.com/
+signIn=//*[@id=\"nav-link-accountList\"]/div/span
+userName=#ap_email
+next=#continue
+password=#ap_password
+signInSubmit=#signInSubmit
